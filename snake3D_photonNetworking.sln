@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake3D_photonNetworking", "snake3D_photonNetworking.csproj", "{32E5EE93-57CF-5308-4377-B4AE36FB1115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake3D_photonNetworking.Plugins", "snake3D_photonNetworking.Plugins.csproj", "{D3048A2C-99CE-3567-A60B-7C585963065B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake3D_photonNetworking.Editor", "snake3D_photonNetworking.Editor.csproj", "{DAFE6342-CD52-6C93-2233-AD3EE7B20F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E5EE93-57CF-5308-4377-B4AE36FB1115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E5EE93-57CF-5308-4377-B4AE36FB1115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E5EE93-57CF-5308-4377-B4AE36FB1115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E5EE93-57CF-5308-4377-B4AE36FB1115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3048A2C-99CE-3567-A60B-7C585963065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3048A2C-99CE-3567-A60B-7C585963065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3048A2C-99CE-3567-A60B-7C585963065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3048A2C-99CE-3567-A60B-7C585963065B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFE6342-CD52-6C93-2233-AD3EE7B20F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFE6342-CD52-6C93-2233-AD3EE7B20F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFE6342-CD52-6C93-2233-AD3EE7B20F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFE6342-CD52-6C93-2233-AD3EE7B20F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
